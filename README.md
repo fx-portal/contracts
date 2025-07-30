@@ -1,2 +1,1 @@
-# contracts
-worldcoin Bugbounty POC by @nvk0x
+# worldcoin Bugbounty POC by @nvk0x
